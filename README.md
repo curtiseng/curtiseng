@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Rust,WASM and Cloud Native.
 - 💬 Ask me about Java and Authz.
 - 📫 How to reach me: zifeng.1024@gmail.com
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingyang&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingyang&hide=javascript,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fallingyang&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
