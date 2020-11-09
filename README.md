@@ -9,7 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fallingyang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fallingyang&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingyang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fallingyang/fallingyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
