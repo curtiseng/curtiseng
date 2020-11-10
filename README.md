@@ -5,9 +5,9 @@
 - 💬 Ask me about Java and Authz.
 - 📫 How to reach me: zifeng.1024@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fallingyang&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fallingyang&count_private=true&theme=radical&show_icons=true)](https://github.com/fallingyang)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingyang&layout=compact&theme=radical?hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingyang?hide=css,html&layout=compact&theme=radical)](hhttps://github.com/fallingyang)
 
 
 <!--
