@@ -7,10 +7,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fallingyang&count_private=true&theme=radical&show_icons=true)](https://github.com/fallingyang)  
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingyang&hide=css,html&layout=compact&theme=radical)](https://github.com/fallingyang)
 
 
-<!--
+
 **fallingyang/fallingyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
