@@ -7,7 +7,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fallingyang&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical?hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallingyang&layout=compact&theme=radical?hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
