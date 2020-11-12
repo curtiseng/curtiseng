@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rust, MQTT, MODBUS, WASM and Cloud Native.
 - 💬 Ask me about Authz,IAM,OAuth2.
 - 📫 How to reach me: zifeng.1024@gmail.com
-- 🕶️ Cook things: Edge Computing, QUIC, eBPF, WASI, MEC, SGX
+- 🕶️ Cool things: Edge Computing, QUIC, eBPF, WASI, MEC, SGX
 - 📚 Reading:
   + [eBPF-based Content and Computation-aware Communication for Real-time Edge Computing](https://arxiv.org/abs/1805.02797)
   + [A DEEP DIVE INTO KUBERNETES FOR EDGE](https://sagarnangare.medium.com/ebook-a-deep-dive-on-kubernetes-for-edge-e0b02af0f41e)
