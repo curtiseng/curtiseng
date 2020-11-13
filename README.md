@@ -11,6 +11,8 @@
   + [Implementation and analysis of QUIC for MQTT](https://www.researchgate.net/publication/329835020_Implementation_and_analysis_of_QUIC_for_MQTT)
   + [QUIC: A UDP-Based Multiplexed and Secure Transport](https://datatracker.ietf.org/doc/draft-ietf-quic-transport/)
   + [Draft-OAuth2.1](https://tools.ietf.org/html/draft-ietf-oauth-v2-1-00)
+  + [How MQTT Works -Beginners Guide](http://www.steves-internet-guide.com/mqtt-works/)
+  + [Making the Tokio scheduler 10x faster](https://tokio.rs/blog/2019-10-scheduler)
   
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fallingyang&count_private=true&theme=radical&show_icons=true)](https://github.com/fallingyang)  
