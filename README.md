@@ -13,8 +13,10 @@
   + [Draft-OAuth2.1](https://tools.ietf.org/html/draft-ietf-oauth-v2-1-00)
   + [Making the Tokio scheduler 10x faster](https://tokio.rs/blog/2019-10-scheduler)
   + [Abstract_syntax_tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
-  + [Exactly Once Delivery and Transactional Messaging in Kafka](https://docs.google.com/document/d/11Jqy_GjUGtdXJK94XGsEIK7CP1SnQGdp2eF0wSw9ra8/edit#heading=h.xq0ee1vnpz4o) | [EOS Scalability Design](https://docs.google.com/document/d/1LhzHGeX7_Lay4xvrEXxfciuDWATjpUXQhrEIkph9qRE/edit#heading=h.beexgkt7kkor)
+  + [Exactly Once Delivery and Transactional Messaging in Kafka]
+(https://docs.google.com/document/d/11Jqy_GjUGtdXJK94XGsEIK7CP1SnQGdp2eF0wSw9ra8/edit#heading=h.xq0ee1vnpz4o) | [EOS Scalability Design](https://docs.google.com/document/d/1LhzHGeX7_Lay4xvrEXxfciuDWATjpUXQhrEIkph9qRE/edit#heading=h.beexgkt7kkor)
   + [IO event in linux](https://web.mit.edu/~yandros/doc/io-events.html)
+  + [OPC UA spec](https://opcfoundation.org/developer-tools/specifications-unified-architecture)
 - ✅ Done：
   + [How MQTT Works -Beginners Guide](http://www.steves-internet-guide.com/mqtt-works/)
   
