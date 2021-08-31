@@ -19,7 +19,7 @@
 - ✅ Done：
   + [How MQTT Works -Beginners Guide](http://www.steves-internet-guide.com/mqtt-works/)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtiseng&hide=css,html,vue&layout=compact&theme=radical&count_private=true)](https://github.com/curtiseng)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtiseng&hide=css,html,js&layout=compact&theme=radical&count_private=true)](https://github.com/curtiseng)
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fallingyang&count_private=true&theme=radical&show_icons=true)](https://github.com/fallingyang)  
 
